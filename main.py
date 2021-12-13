@@ -1,19 +1,3 @@
-import eel 
-# import pyowm
-
-# owm = pyowm.OWM("2efe0d2bcc30792d92257e8b597f8100")
-
-# @eel.expose
-# def get_weather(place):
-# 	mgr = owm.weather_manager()
-
-# 	observation = mgr.weather_at_place(city)
-# 	w = observation.weather 
-
-# 	temp = w.temperature('celsius')['temp']
-
-# 	return 'v gorode  ' + city + " secas" + str(temp) + " gradus!"
-
 from tkinter import *
 
 
